@@ -14,7 +14,7 @@ Status (2026-09-24): the site is being rebuilt almost from scratch. The current 
 
 ## Personal notes vault
 
-`vault/` is an Obsidian vault, the project's second brain: a daily journal, numbered decisions, reference notes and ideas. It stays local: gitignored and never committed, because this repo is public. Start at `vault/Start Here.md`. Read it for context, and write to it during sessions. Where the vault and this file disagree, this file wins.
+`raghav-site/`, the folder at the repo root named after the project, is an Obsidian vault, the project's second brain: a daily journal, numbered decisions, reference notes and ideas. It stays local: gitignored and never committed, because this repo is public. Start at `raghav-site/Start Here.md`. Read it for context, and write to it during sessions. Where the vault and this file disagree, this file wins.
 
 ## Commands
 
