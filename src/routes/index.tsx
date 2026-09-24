@@ -30,7 +30,7 @@ const works = [
     kind: "Product · AI · Full-stack",
     blurb:
       "Journal to tweets, powered by Gemini. Write what's on your mind — AI extracts the signal and hands you content worth sharing. Live and shipping.",
-    href: "https://lovable.dev/preview/FIgLJsy49uSTR0MMtg1OHUufyGM0zCal",
+    href: null as string | null, // TODO: add the live Thought Seed website URL
   },
   {
     no: "02",
