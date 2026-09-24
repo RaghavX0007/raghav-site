@@ -12,6 +12,10 @@ Status (2026-09-24): the site is being rebuilt almost from scratch. The current 
 - The GitHub repo `RaghavX0007/raghav-site` is **public**. Keep reference screenshots and other third-party material outside the repo folder.
 - The project was exported from Lovable and fully disconnected from it. The toolchain is plain Vite + TanStack Start, and stays that way.
 
+## Personal notes vault
+
+`vault/` is an Obsidian vault, the project's second brain: a daily journal, numbered decisions, reference notes and ideas. It stays local: gitignored and never committed, because this repo is public. Start at `vault/Start Here.md`. Read it for context, and write to it during sessions. Where the vault and this file disagree, this file wins.
+
 ## Commands
 
 ```sh
