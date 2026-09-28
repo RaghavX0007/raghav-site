@@ -26,11 +26,11 @@ const works = [
   {
     no: "01",
     year: "2025",
-    title: "Thought Seed",
+    title: "UnderGrowth",
     kind: "Product · AI · Full-stack",
     blurb:
       "Journal to tweets, powered by Gemini. Write what's on your mind — AI extracts the signal and hands you content worth sharing. Live and shipping.",
-    href: null as string | null, // TODO: add the live Thought Seed website URL
+    href: "https://undergrowth.app" as string | null,
   },
   {
     no: "02",
