@@ -25,3 +25,9 @@ Thumbs.db
 
 # Personal notes vault (Obsidian) — not project source, never committed
 /raghav-site/
+
+# Browser-tool (Playwright MCP) snapshots
+.playwright-mcp/
+
+# Design explorations (throwaway mockups) — kept local until a direction is chosen
+/explorations/

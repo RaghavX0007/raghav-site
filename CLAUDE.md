@@ -10,7 +10,8 @@ Status (2026-09-24): the site is being rebuilt almost from scratch. The current 
 
 - Work stays local. Deploying and publishing wait until the user asks; hosting is undecided (Nitro builds the `node-server` preset until a preset is set in `vite.config.ts`).
 - The GitHub repo `RaghavX0007/raghav-site` is **public**. Keep reference screenshots and other third-party material outside the repo folder.
-- The project was exported from Lovable and fully disconnected from it. The toolchain is plain Vite + TanStack Start, and stays that way.
+- The project was exported from Lovable and fully disconnected from it; Lovable tooling stays out. Whether TanStack Start itself stays is an open question in the grilling session (see the vault).
+- Raghav is learning to code through this project: Claude builds, explains every piece in plain English (what it is, why, how it connects), and checks that Raghav understands it before moving on.
 
 ## Personal notes vault
 
